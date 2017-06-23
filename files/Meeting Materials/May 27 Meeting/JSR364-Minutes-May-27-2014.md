@@ -12,7 +12,7 @@
 
 *   [<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">Review Membership Charts drafted by John Weir.</span></font></font></font>](https://java.net/projects/jcpnext4/pages/WorkingDocuments)
 
-*   <font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">[Issue Tracker](https://java.net/jira/browse/JCPNEXT4) Review.</span></font></font></font>
+*   <font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">undefined Review.</span></font></font></font>
 
 *   <font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">Discuss Next Steps.</span></font></font></font>
 

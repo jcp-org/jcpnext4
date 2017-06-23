@@ -10,7 +10,7 @@
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Agenda**</font></font></font>
 
-<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">[Issue Tracker](https://java.net/jira/browse/JCPNEXT4) Review. Continue review of [Process Document](https://java.net/downloads/jcpnext4/Original%20Source%20Materials/ProcessDoc-8April14.pdf).</span></font></font></font>
+<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">undefined Review. Continue review of [Process Document](https://java.net/downloads/jcpnext4/Original%20Source%20Materials/ProcessDoc-8April14.pdf).</span></font></font></font>
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Attendees**</font></font></font>
 

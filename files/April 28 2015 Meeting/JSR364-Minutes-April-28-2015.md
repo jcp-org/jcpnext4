@@ -10,7 +10,7 @@
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Agenda**</font></font></font>
 
-<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">[Issue Tracker](https://java.net/jira/browse/JCPNEXT4) Review and discussion around the revised Workflow and Membership charts (Issues 71 & 72).</span></font></font></font>
+<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">undefined Review and discussion around the revised Workflow and Membership charts (Issues 71 & 72).</span></font></font></font>
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Attendees**</font></font></font>
 

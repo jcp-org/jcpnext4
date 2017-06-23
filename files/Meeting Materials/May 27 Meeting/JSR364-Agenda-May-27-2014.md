@@ -10,6 +10,6 @@
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Agenda**</font></font></font>
 
-*   <font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">[Issue Tracker](https://java.net/jira/browse/JCPNEXT4) Review of Issue #4, 33\.</span></font></font></font>
+*   <font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">undefined Review of Issue #4, 33\.</span></font></font></font>
 
 *   <font color="#000000"><font face="Times-Roman, serif"><font size="5">Review Membership Table (John Weir to circulate draft).</font></font></font>

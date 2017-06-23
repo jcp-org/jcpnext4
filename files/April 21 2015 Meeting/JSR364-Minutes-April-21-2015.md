@@ -10,7 +10,7 @@
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Agenda**</font></font></font>
 
-<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">[Issue Tracker](https://java.net/jira/browse/JCPNEXT4) Review and discussion around the revised Workflow and Membership charts (Issues 71 & 72).</span></font></font></font>
+<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">undefined Review and discussion around the revised Workflow and Membership charts (Issues 71 & 72).</span></font></font></font>
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Attendees**</font></font></font>
 
@@ -40,7 +40,7 @@
 
 <font color="#000000"><font face="Times New Roman, serif"><font size="5">Issue #60 (Circularity) - Resolved - see comments in #60</font></font></font>
 
-<font color="#000000"><font face="Times New Roman, serif"><font size="5">Issue #72 (Enable linking to definitions) - Resolved - see new issue</font></font></font> [<font color="#386eff"><font face="Times New Roman, serif"><font size="5"><u>https://java.net/jira/browse/JCPNEXT4-85</u></font></font></font>](https://java.net/jira/browse/JCPNEXT4-85)
+<font color="#000000"><font face="Times New Roman, serif"><font size="5">Issue #72 (Enable linking to definitions) - Resolved - see new issue</font></font></font> [<font color="#386eff"><font face="Times New Roman, serif"><font size="5"><u>https://java.net/jira/browse/JCPNEXT4-85</u></font></font></font>](https://github.com/jcp-org/jcpnext4/issues/79)
 
 <font face="Times New Roman, serif"><font size="5"><font color="#000000">Issue #84 (Weird "Member contributing the Spec Lead") - Resolved - see comments in #84</font></font></font>
 

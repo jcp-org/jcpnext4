@@ -10,7 +10,7 @@
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Agenda**</font></font></font>
 
-<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">[Issue Tracker](https://java.net/jira/browse/JCPNEXT4) Review. Discuss next steps to prepare for Public Review milestone submission.</span></font></font></font>
+<font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">undefined Review. Discuss next steps to prepare for Public Review milestone submission.</span></font></font></font>
 
 <font color="#000000"><font face="Times-Roman, serif"><font size="6" style="font-size: 27pt">**Attendees**</font></font></font>
 

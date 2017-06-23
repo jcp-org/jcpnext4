@@ -10,7 +10,7 @@
 
 **<font color="#000000"><font size="6" style="font-size: 27pt"><font face="Times-Roman, serif">Agenda</font></font></font>**
 
-*   <font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">[Issue Tracker](https://java.net/jira/browse/JCPNEXT4) Review.</span></font></font></font>
+*   <font color="#000000"><font face="Times-Roman, serif"><font size="5"><span style="font-weight: normal">undefined Review.</span></font></font></font>
 
 *   <font color="#000000"><font face="Times-Roman, serif"><font size="5">Discuss Next Steps.</font></font></font>
 

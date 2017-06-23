@@ -2,7 +2,7 @@
 
 ### Deleted definitions
 
-Note: these deletions have been documented in Issue [JCPNEXT4-13: The definition of Agent is too broad](https://java.net/jira/browse/JCPNEXT4-13)
+Note: these deletions have been documented in Issue [JCPNEXT4-13: The definition of Agent is too broad](https://github.com/jcp-org/jcpnext4/issues/2)
 
 **Member A****ssociate:** An individual who is associated with a Member organization but is not an Agent of that organization.  
 
