@@ -1,4 +1,4 @@
-= Welcome to the JSR 364 (JCP.next.4) project =
+# Welcome to the JSR 364 (JCP.next.4) project
 
 This is the public project for <a href="https://jcp.org/en/jsr/detail?id=364"> JSR 364: Broadening JCP Membership </a>. 
 This JSR aims to broaden JCP membership and participation by defining new membership classes and changing existing membership categories. The goals are to enable participation by the Java developer community and to ensure the appropriate Intellectual Property (IP) commitments from Members of the JCP program.
